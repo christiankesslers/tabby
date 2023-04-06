@@ -1,11 +1,10 @@
 ---
 title: Tabby
-emoji: 🔥
-colorFrom: gray
-colorTo: pink
+emoji: 🐾 
+colorFrom: yellow
+colorTo: indigo
 sdk: docker
-pinned: false
-license: apache-2.0
----
+pinned: true
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+app_port: 5000
+---
